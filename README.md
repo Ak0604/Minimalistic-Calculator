@@ -1,7 +1,8 @@
 # Minimalistic-Calculator
 A calculator with minimalistic design.
 
-Features
+Features:
+
 Responsive Design: A simple, user-friendly interface that looks good on both desktop and mobile devices.
 Basic Arithmetic Operations: Supports addition, subtraction, multiplication, and division.
 Clear Display: Ability to clear the display with a single button press.
